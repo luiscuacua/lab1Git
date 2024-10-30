@@ -1,7 +1,7 @@
 package service;
 
 public class UserService {
-    
+
     @Autowired
     private final UsuarioRepository usuarioRepository;
 
